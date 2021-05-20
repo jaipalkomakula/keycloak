@@ -1,0 +1,4 @@
+/root/apicurio-keycloak-extensions/social/src/main/java/io/apicurio/kc/ext/social/LocalGitLabIdentityProviderFactory.java
+/root/apicurio-keycloak-extensions/social/src/main/java/io/apicurio/kc/ext/social/LocalGitHubIdentityProviderFactory.java
+/root/apicurio-keycloak-extensions/social/src/main/java/io/apicurio/kc/ext/social/LocalGitHubIdentityProvider.java
+/root/apicurio-keycloak-extensions/social/src/main/java/io/apicurio/kc/ext/social/LocalGitLabIdentityProvider.java

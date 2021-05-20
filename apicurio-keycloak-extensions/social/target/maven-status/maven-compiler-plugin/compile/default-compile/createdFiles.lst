@@ -1,0 +1,4 @@
+io/apicurio/kc/ext/social/LocalGitHubIdentityProviderFactory.class
+io/apicurio/kc/ext/social/LocalGitHubIdentityProvider.class
+io/apicurio/kc/ext/social/LocalGitLabIdentityProviderFactory.class
+io/apicurio/kc/ext/social/LocalGitLabIdentityProvider.class
